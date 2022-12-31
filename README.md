@@ -5,11 +5,23 @@
   - yarn install
 
 - 실행
+
   - yarn start
 
 ## 폴더 구조
 
-업데이트 예정
+api /
+  - APIUtils.ts;
+  - UserAPI.ts;
+  - CarCenterAPI.ts;
+  - ProductAPI.ts;
+  - MaintenanceList.ts
+components /
+  - pages
+  - config
+  - HOC
+  - model
+  - layout
 
 ## 링크
 
